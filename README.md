@@ -1,5 +1,5 @@
 # first-repo-12-2023
-it will contains discription about my project
+it will contain discription about my project
 - some list
 - another item
 - 
